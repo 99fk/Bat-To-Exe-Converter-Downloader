@@ -5,7 +5,7 @@
 
   Thank you for your interest in this project.<br><br>
   This repository is no longer maintained or updated.<br><br>
-  The latest version of the software can be found [here](https://github.io/99fk/toolbox-deluxe).
+  The latest version of the software can be found [here](https://github.com/99fk/toolbox-deluxe).
 
 ## 💡 About this repository
 
