@@ -1,7 +1,20 @@
 # Bat To Exe Converter (archived)
 
 The final official release of this program is available [**here**](https://github.com/99fk/toolbox-deluxe).
+***
+ **⚠️ Notice**
+ 
+- Antivirus detections are not my responsibility. If your security product flags this release, please contact the vendor to resolve it or refrain from using the software.
 
+- I do not operate any other domains.
+
+- Verify the file with the signed SHA-256 value below before running. If in doubt, do not run it.
+
+- Only files that match the SHA-256 hash in the signed message below are to be considered official.
+Anything else may not originate from me.
+If there are updates, they will be announced here.
+ 
+***
 🔑 Public key: [https://github.com/99fk.gpg](https://github.com/99fk.gpg)
 
 ```text
