@@ -1,14 +1,28 @@
-<!-- README.md for archived or redirected repository -->
+# Bat To Exe Converter (archived)
 
-<h1>🚀 Project moved!</h1>
+The final official release of this program is available [**here**](https://github.com/99fk/toolbox-deluxe).
 
+🔑 Public key: [https://github.com/99fk.gpg](https://github.com/99fk.gpg)
 
-  Thank you for your interest in this project.<br><br>
-  This repository is no longer maintained or updated.<br><br>
-  The latest version of the software can be found [here](https://github.com/99fk/toolbox-deluxe).
+```text
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
 
-## 💡 About this repository
+Bat To Exe Converter v3.2
+SHA-256: 11e87711817fcbbb387fc3932b249f9a5c321693f6e73654ea118da78836b6a9
+-----BEGIN PGP SIGNATURE-----
 
-This repository is archived and kept online only to avoid broken links.<br>
-
-Thank you for your understanding!
+iQIzBAEBCgAdFiEEyqOv6n6E/L1LXkPbrzOs4RwgC4cFAmjJwNAACgkQrzOs4Rwg
+C4eVIQ//X8s4HqDy/1FHToLw7S26nQMG4XE5zHb4bmtIe/nMDSO7tviHEMbRuw6f
+TnYuY9G9eDWzS1O+6LVo42Lv71L36/zbH2k1dZXUcmMu9M6tyaxxT0vFtNreNjJ5
+iV06aF+Qjf2TkHGtxl/kZDKphymcjZwLnT/cYjR0s3QFteZaMSOIqmhLLZsOgBAN
+z5upJsanX3Wnqm/G7t4zYENp1pRWTIG08bCC2MPmmvC6snXA9R7ZOHnVWIExc0ti
+hMPsHYlPtXf0eq5lW49ycKKYMZxwPPzCtLQ7IiwAHPJgkinaRwuGzCKOGytgEsnb
+iNw6lMfpVSznrehyFiF2hEPpfl9WdtxyVKM+GPy3ILpbDptahZnToSgrQ+oc5bAJ
+m3V1GhNmn75JNrVASiK1/yPtzo/kHGthEYCt6A4+NDfFwT9NdxSVdeZyxbp5Xwja
+Q3mR+b0GDG6l+BRYjLpBwaiWC8lJTELKv0t6eUDmymGHoK3lAHjDrPOSqU9QpXvO
+v5TmXZwmeUuBi9hN6IA1p2KEsmLpMAR8J/nn5TpVoKD+IQ8GjxgAWcPYEoWa8moZ
+BWIrZ1sH4BRoQFwrQuaSXAXmi70sIcaBxj8cIEEI3ViykDXlYB3Kb1g9/W/rhWPM
+X32AUf4ePwdICwX7/fa1q/V/JHbwH2PbIYjYEUijPfxnqbimvFE=
+=5bpa
+-----END PGP SIGNATURE-----
